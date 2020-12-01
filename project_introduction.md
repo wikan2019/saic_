@@ -56,6 +56,15 @@
 	doucument:
 		https://gitlab.deepmotion.ai/SAIC_H2_CALIBRATION/DOCUMENTS.git
 		git checkout huikang（huikang branch）
+	数采车标定
+		https://gitlab.deepmotion.ai/HuikangZhang/AntingCalibrationIntegration.git
+			branch:  data_collection_car_calibration
+	
+	海康相机采集程序：
+		https://gitlab.deepmotion.ai/HuikangZhang/Hik_camera_cv.git
+
+	海康相机计算靶标相对位置程序：
+		https://gitlab.deepmotion.ai/saic_calibration/saic_pano_calibration.git
 	
 		
 		
